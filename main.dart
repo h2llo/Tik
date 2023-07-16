@@ -12,7 +12,7 @@ class TikTokApp extends StatelessWidget {
     return MaterialApp(
       title: 'TikTok App',
       theme: ThemeData(
-        primaryColor: Color(0xFFE9435A),
+        primaryColor: const Color(0xFFE9435A),
       ),
       home: Container(),
     );
